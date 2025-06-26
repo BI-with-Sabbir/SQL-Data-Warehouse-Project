@@ -1,4 +1,4 @@
-# SQL Data Warehouse Project: Bronze, Silver, and Gold Layer Architecture
+# SQL Data Warehouse Project
 
 ## Overview
 
