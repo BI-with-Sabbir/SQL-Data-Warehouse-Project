@@ -15,6 +15,8 @@ This project demonstrates the implementation of a scalable, modular, and busines
 * **Interface:** Files in folders (ingested via SSIS or Python scripts)
 
 ---
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/865ed4ce-3747-4c8e-b9d2-3e9328b8f36f)
+
 
 ## 🔶 Bronze Layer – Raw Data
 
