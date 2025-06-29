@@ -8,7 +8,7 @@ This project demonstrates the implementation of a scalable, modular, and busines
 
 ## 🧱 Architecture Summary
 
-### 📂 Data Sources:
+### 📂 Data Sources: [Click here](https://github.com/BI-with-Sabbir/SQL-Data-Warehouse-Project/tree/main/Datasets)
 
 * **Types:** CSV files
 * **Origin:** CRM and ERP systems
