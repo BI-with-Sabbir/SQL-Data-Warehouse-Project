@@ -1,8 +1,11 @@
 # SQL Data Warehouse Project
 
+
 ## Overview
 
 This project demonstrates the implementation of a scalable, modular, and business-friendly **Data Warehouse architecture** using SQL Server. The architecture follows the **Bronze → Silver → Gold** layered model to ensure a clean, standardized, and analytics-ready data pipeline for reporting, ad-hoc querying, and machine learning.
+![image](https://github.com/user-attachments/assets/9d6b93e9-2966-4ec4-96f6-82c6c0fbfe30)
+
 
 ---
 
