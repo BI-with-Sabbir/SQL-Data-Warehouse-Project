@@ -21,7 +21,7 @@ This project demonstrates the implementation of a scalable, modular, and busines
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/865ed4ce-3747-4c8e-b9d2-3e9328b8f36f)
 
 
-## 🔶 Bronze Layer – Raw Data
+## 🔶 Bronze Layer – Raw Data (details)[https://github.com/BI-with-Sabbir/SQL-Data-Warehouse-Project/tree/main/Scripts/bronze%20layer]
 
 The Bronze Layer is responsible for loading the raw data from source systems without any transformation.
 
