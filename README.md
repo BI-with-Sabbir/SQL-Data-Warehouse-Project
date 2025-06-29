@@ -21,7 +21,7 @@ This project demonstrates the implementation of a scalable, modular, and busines
 ![Untitled Diagram drawio](https://github.com/user-attachments/assets/865ed4ce-3747-4c8e-b9d2-3e9328b8f36f)
 
 
-## 🔶 Bronze Layer – Raw Data (details)[https://github.com/BI-with-Sabbir/SQL-Data-Warehouse-Project/tree/main/Scripts/bronze%20layer]
+## 🔶 Bronze Layer – Raw Data [details](https://github.com/BI-with-Sabbir/SQL-Data-Warehouse-Project/tree/main/Scripts/bronze%20layer)
 
 The Bronze Layer is responsible for loading the raw data from source systems without any transformation.
 
@@ -37,7 +37,7 @@ The Bronze Layer is responsible for loading the raw data from source systems wit
 
 ---
 
-## ⚪ Silver Layer – Cleaned & Standardized Data
+## ⚪ Silver Layer – Cleaned & Standardized Data [details](https://github.com/BI-with-Sabbir/SQL-Data-Warehouse-Project/tree/main/Scripts/gold_layer)
 
 This layer performs essential cleaning and standardization to prepare the data for analysis.
 
@@ -59,7 +59,7 @@ This layer performs essential cleaning and standardization to prepare the data f
 
 ---
 
-## 🟡 Gold Layer – Business-Ready Data
+## 🟡 Gold Layer – Business-Ready Data [details](https://github.com/BI-with-Sabbir/SQL-Data-Warehouse-Project/tree/main/Scripts/silver%20layer)
 
 The Gold Layer generates final views ready for business use, aggregations, and decision-making.
 
